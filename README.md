@@ -74,12 +74,12 @@ Bot: Your name is mithra
 
 # 🌌  Future Improvements
 
-1.Voice assistant support  
-2.AI memory enhancement  
-3.NLP intent classification  
-4.PDF question answering  
-5.LLM integration  
-6.Modern chatbot UI  
+✅ Voice assistant support  
+✅ AI memory enhancement  
+✅ NLP intent classification  
+✅ PDF question answering  
+✅ LLM integration  
+✅ Modern chatbot UI  
 
 ---
 
