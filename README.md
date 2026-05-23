@@ -20,11 +20,11 @@ This project helped me learn:
 ✅ Conversational memory  
 ✅ Streamlit web interface  
 ✅ Beginner-friendly architecture  
-✅ Fuzzy NLP matching
-✅ Chat history
-✅ AI facts
-✅Improved UI
-✅Session handling
+✅ Fuzzy NLP matching 
+✅ Chat history 
+✅ AI facts 
+✅Improved UI 
+✅Session handling 
 
 ---
 
