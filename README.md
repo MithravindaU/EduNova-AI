@@ -19,12 +19,12 @@ This project helped me learn:
 ✅ Randomized responses  
 ✅ Conversational memory  
 ✅ Streamlit web interface  
-✅ Beginner-friendly architecture  
-✅ Fuzzy NLP matching 
-✅ Chat history 
-✅ AI facts 
-✅Improved UI 
-✅Session handling 
+✅ Beginner-friendly architecture     
+✅ Fuzzy NLP matching  
+✅ Chat history  
+✅ AI facts  
+✅Improved UI  
+✅Session handling  
 
 ---
 
@@ -57,6 +57,7 @@ streamlit run app.py
 ----
 
 Example Interaction
+
 You: hi
 Bot: Hello 👋
 
@@ -71,7 +72,8 @@ Bot: Your name is mithra
 
 ----
 
-#🌌 Future Improvements
+# 🌌  Future Improvements
+
 1.Voice assistant support
 2.AI memory enhancement
 3.NLP intent classification
@@ -82,6 +84,6 @@ Bot: Your name is mithra
 ---
 
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Mithravinda U
